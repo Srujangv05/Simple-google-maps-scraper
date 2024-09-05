@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Simple Google Maps Scraper",
+    "version": "1.0",
+    "description": "Simple Google Maps Scraper by Srujan G V",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "map.png",
+      "48": "map.png",
+      "128": "map.png"
+    }
+  }
+  
